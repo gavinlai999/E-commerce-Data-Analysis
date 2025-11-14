@@ -6,6 +6,9 @@ Project Overview
 - Purpose: Analyze sales, profit, discounts, and customer behavior to uncover meaningful retail insights
 - Tools Used: Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, plotly
 
+![images](https://github.com/user-attachments/assets/bdb19022-65d7-473c-b7b5-88b35cb6287b)
+
+
 This project ingests the Sample Superstore dataset, cleans and transforms it using pandas, engineers new features, and performs exploratory analysis to answer key business questions regarding profitability, product performance, and regional trends.
 
 ---------------------------------------------------------------------
